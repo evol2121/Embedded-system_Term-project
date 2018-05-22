@@ -1,7 +1,7 @@
 # Embedded-system_Term-project
 my smartfarm 
 
-demo youtube link: https://youtu.be/9Jc7R8Y3HOM
+demo youtube link: https://youtu.be/TuXREWbolGc
 
 Monitor temperature and lightness on every 1ms
 Use an analogous data for a ligthness sensor. 
