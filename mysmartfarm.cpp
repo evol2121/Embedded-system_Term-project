@@ -420,7 +420,7 @@ void *producer(void *arg){
 
 		pthread_mutex_lock(&mutex);
 
-		while(done == 3300)
+		while(done == 10000)
 
                 {
 
@@ -484,7 +484,7 @@ void *consumer(void *arg) {
 
 		pthread_mutex_lock(&mutex);
 
-		while(done < 3300)
+		while(done < 10000)
 
                 {
 
